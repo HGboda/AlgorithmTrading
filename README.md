@@ -18,11 +18,10 @@ Above figure shows buy and sell signals, buy signal represents red triangle and 
 -Backtesting simulation supported
 -Interactive Plot Analysis
 ![plotly](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/plotly.png)
--Hidden Markov Model applied
-![hmm](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/hmm.png)
 -Clustering
 ![clustering](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/clustering.png)
-
+-Hidden Markov Model applied
+![hmm](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/hmm.png)
 
 C. Simulation Result
 -----------------
