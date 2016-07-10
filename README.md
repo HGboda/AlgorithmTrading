@@ -13,6 +13,19 @@ A Widget can search Stock Name while a user is typing the Stock Name or if a use
 ![widget_result](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/widget_result.png)
 Above figure shows buy and sell signals, buy signal represents red triangle and sell signal represents blue triangle. Return Percentage displays the trading result between Jan 2015 and Dec 2015. 
 
+-Processing time is very fast
+-Algorithm supports Parallel Processing
+-Backtesting simulation supported
+-Interactive Plot Analysis
+![plotly](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/plotly.png)
+-Hidden Markov Model applied
+![hmm](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/hmm.png)
+-Clustering
+![clustering](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/clustering.png)
 
+
+C. Simulation Result
+-----------------
 ![2016 result](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/2016_result.png)
+![2015 result](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/2015_result.png)
 
