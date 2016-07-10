@@ -27,5 +27,6 @@ Above figure shows buy and sell signals, buy signal represents red triangle and 
 C. Simulation Result
 -----------------
 ![2016 result](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/2016_result.png)
+A below total accumulated gain in 2015 is around 346.5%
 ![2015 result](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/2015_result.png)
 
