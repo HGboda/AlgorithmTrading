@@ -1,6 +1,7 @@
 # Stock Quantitative Development, Algorithm Trading System Software
 
 This is Quantitative Algorithm Trading System and this system has web scraping, Data management, Data Analysis(Big Data, Machine Learning, Stock simulation Result).
+This software is designed for low latency trading program.
 
 A. Data Scraping
 -----------------
