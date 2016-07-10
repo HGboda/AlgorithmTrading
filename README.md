@@ -5,10 +5,13 @@ This is Quantitative Algorithm Trading System and this system has web scraping, 
 A. Data Scraping
 -----------------
 A simulAuto function gathers 1750 stock data from Quandl and Yahoo’s Data Server and this function runs simultaneously with parallel processing architecture supported by IPython APIs.
-![scraping](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/scraping.png)
 ![firefox](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/scraping_js.png)
 B. Data Analysis
 -----------------
+![ipython_widget](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/ipython_widget.png)
+A Widget can search Stock Name while a user is typing the Stock Name or if a user changes the Code slide Widget, it also searches the Stock Name.
+![widget_result](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/widget_result.png)
+Above figure shows buy and sell signals, buy signal represents red triangle and sell signal represents blue triangle. Return Percentage displays the trading result between Jan 2015 and Dec 2015. 
 
 
 ![2016 result](https://github.com/HGboda/AlgorithmTrading/raw/master/pic/2016_result.png)
