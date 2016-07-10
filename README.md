@@ -1,4 +1,4 @@
-# stock quantitative development, Algorithm Trading System Software
+# Stock Quantitative Development, Algorithm Trading System Software
 
 This is Quantitative Algorithm Trading System and this system has web scraping, Data management, Data Analysis(Big Data, Machine Learning, Stock simulation Result).
 
